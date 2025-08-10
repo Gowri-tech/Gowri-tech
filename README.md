@@ -14,7 +14,7 @@ Currently exploring **Data Analytics, Dashboard Design, and Web Development**.
 ## 📂 Featured Projects  
 ### 🏥 Online Medical Management Supporting System  
 A platform to manage patient records, appointments, and billing, with analytics for operational insights.  
-🔗 View Repository(#)
+🔗 [https://github.com/Gowri-tech/Web-Project](#)
 
 ### 📊 Data Analytics Mini-Projects  
 - Sales trend analysis  
